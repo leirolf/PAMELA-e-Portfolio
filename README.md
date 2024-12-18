@@ -1,7 +1,7 @@
 # Pamela Floriel Dubria - E-Portfolio
 
 ## Overview
-This project is my personal ePortfolio showcasing my skills, expertise, and recent projects as a UI/UX designer and aspiring developer. It provides insights into my background, design philosophy, and recent accomplishments.
+This project is my personal ePortfolio showcasing my skills, expertise, and recent projects as a UI/UX designer and aspiring developer. It provides insights into my background, design philosophy, and notable accomplishments.
 
 ## Technologies Used
 - **HTML**
@@ -24,7 +24,7 @@ This project is my personal ePortfolio showcasing my skills, expertise, and rece
 - **Contact**: Contact information and a message form.
 
 ## How to Run
-1. View the portfolio directly via GitHub Pages:
+1. View the portfolio directly via GitHub Pages:[GitHub](https://leirolf.github.io/PAMELA-e-Portfolio/)
 2. Clone the repository from [GitHub](https://github.com/leirolf).
 3. Open the `index.html` file in a browser to view the ePortfolio.
 
